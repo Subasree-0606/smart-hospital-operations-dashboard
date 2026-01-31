@@ -79,4 +79,9 @@ By reallocating staff and beds in the Emergency department during peak times, ho
 ## 🚀 Conclusion
 This project demonstrates how data analytics and visualization can support hospital administrators in identifying inefficiencies and making informed operational decisions.
 
+## 📊 Dashboard Preview
+
+![Hospital Dashboard](dashboard.png)
+
+
 
